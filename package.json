@@ -1,0 +1,25 @@
+{
+  "name": "@manumorante/masonry",
+  "version": "1.0.0",
+  "description": "Pure CSS Masonry like gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manumorante/masonry.git"
+  },
+  "keywords": [
+    "masonry",
+    "photo",
+    "gallery",
+    "css"
+  ],
+  "author": "Manu Morante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manumorante/masonry/issues"
+  },
+  "homepage": "https://github.com/manumorante/masonry#readme"
+}
